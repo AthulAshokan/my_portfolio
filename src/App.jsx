@@ -11,6 +11,7 @@ import SubSkill from './components/skillSection/SubSkill'
 import ExperianceMain from './components/experianceSection/ExperianceMain'
 import ProjectMain from './components/projectSection/ProjectMain'
 import ContactMeMain from './components/contactSection/ContactMeMain'
+import FooterMain from './components/footerSection/FooterMain'
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
       <ExperianceMain/>
       <ProjectMain/>
       <ContactMeMain/>
+      <FooterMain/>
 
       <HelperSection/>
     </main>
